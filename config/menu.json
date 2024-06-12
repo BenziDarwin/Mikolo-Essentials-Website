@@ -48,10 +48,6 @@
       "name": "Support",
       "menu": [
         {
-          "text": "FAQ",
-          "url": "/faq"
-        },
-        {
           "text": "Privacy Policy",
           "url": "#"
         },
