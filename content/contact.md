@@ -4,9 +4,9 @@ layout: "contact"
 draft: false
 info: 
   title: Why you should contact us!
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+  description: Ready to take your event planning to the next level? Collaborate with us! Whether you're a vendor looking to showcase your services or an organization seeking event management solutions, we're here for you. Send us a message today and let's explore the possibilities of working together!
   contacts: 
-    - "phone: +88 125 256 452"
-    - "Mail: [info@bigspring.com](mailto:info@bigspring.com)"
-    - "Address: 360 Main rd, Rio, Brazil"
+    - "phone: +256 773 457 817"
+    - "Mail: [sales@mikoloessentials.com](mailto:sales@mikoloessentials.com)"
+    - "Address: Nakuwadde, Bulenga, Uganda."
 ---

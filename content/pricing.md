@@ -44,7 +44,7 @@ plans:
 
 call_to_action:
   title: Need a larger plan?
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
+  content: Have questions or ready to get started? Reach out to us today! Whether it's for standard inquiries or if you need a bigger plan, we're here to help. Let's make your event vision a reality – contact us now!
   image: '/images/cta.svg'
   button:
     enable: true

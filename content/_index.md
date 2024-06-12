@@ -33,8 +33,8 @@ feature:
 
 # services
 services:
-  - title: "It is the most advanced digital marketing and it company."
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Comprehensive Event Solutions for Seamless Planning and Execution."
+    content: "Experience seamless event planning and sales tracking with our comprehensive solutions. Easily find service providers for your big day, ensuring every detail is perfect. Trust us to deliver unforgettable experiences from start to finish."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
@@ -44,8 +44,8 @@ services:
       label: Check it out
       link: /contact
 
-  - title: "It is a privately owned Information and cyber security company"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Effortless Event Coordination, Reminders, and Invitations"
+    content: "Simplify event planning with our comprehensive tools. Manage guest lists, send reminders, and create elegant invitations effortlessly. With our platform, coordinating your next event is a breeze."
     images: 
       - "/images/service-slide-1.png"
     button:
@@ -56,14 +56,14 @@ services:
 
 # workflow
 workflow: 
-  title: "Experience the best workflow with us"
+  title: "Seamless Event Planning & Unbeatable Deals"
   image: "/images/banner.svg"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  description: "Discover unbeatable deals from home and plan your event with ease using our platform.  <br/>With our intuitive interface and extensive vendor network, stress-free event planning is just a click away."
 
 # call_to_action
 call_to_action:
   title: Ready to get started?
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
+  content: Start planning your event effortlessly today! Whether it's a wedding, corporate event, or special celebration, let us help you make it unforgettable. Join us now and bring your event vision to life with ease!
   image: '/images/cta.svg'
   button:
     enable: true
