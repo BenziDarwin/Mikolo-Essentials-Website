@@ -62,6 +62,7 @@ const Home = ({ frontmatter }) => {
                     src={item.icon}
                     width={30}
                     height={30}
+                    style={{color:"#FFD5D5"}}
                     alt=""
                   />
                 )}

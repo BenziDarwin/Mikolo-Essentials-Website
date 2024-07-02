@@ -1,12 +1,12 @@
 {
   "site": {
-    "title": "Mikolo Essentials",
+    "title": "Festivity Hub",
     "base_url": "/",
     "favicon": "/images/favicon.ico",
     "logo": "/images/logo.png",
     "logo_width": "200",
     "logo_height": "48",
-    "logo_text": "Mikolo Essentials"
+    "logo_text": "Festivity Hub"
   },
 
   "settings": {
@@ -24,7 +24,7 @@
   "params": {
     "contact_form_action": "",
     "tag_manager_id": "",
-    "footer_content": "Crafting your unforgettable events...",
+    "footer_content": "",
     "copyright": "ReDesigned by InnoSolve Tech"
   },
 
