@@ -41,7 +41,10 @@ const Footer = () => {
               />
             </Link>
             {markdownify(footer_content, "p", "mt-3 mb-6")}
-            <Social source={social} className="social-icons mb-8 mt-3" />
+            <Link className="mb-2" target="_blank" href="https://play.google.com/store/apps/details?id=com.innosolvetech.festivityhub&pcampaignid=web_share">
+            <Image alt="Google play store download" width={300} height={100} src="/images/googleplay.png"/>
+            </Link>
+            <Social source={social} className="social-icons mb-2 mt-3" />
           </div>
         </div>
         {/* copyright */}

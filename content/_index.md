@@ -3,7 +3,7 @@ banner:
   title: Event Planning Made Effortless, Explore Our Curated Collections!
   content: Transform your event from ordinary to extraordinary with our exclusive collection of event items. From elegant decor to personalized gifts, our e-commerce platform brings you a world of possibilities.
 
-  image: /images/banner-art.svg
+  image: /images/banner.jpg
   button:
     label: "Contact Us"
     link: "/contact"
@@ -13,22 +13,22 @@ feature:
   title: Services we offer
   features:
   - name: "Planning"
-    icon: "/images/code.svg"
+    icon: "/images/planning.svg"
     content: "Streamline your event planning process with our intuitive tools that help you manage schedules, tasks, and resources effortlessly."
   - name: "Pledge Tracking"
-    icon: "/images/oop.svg"
+    icon: "/images/pledge.svg"
     content: "Easily monitor and manage pledges and donations with our comprehensive tracking system, ensuring you meet your fundraising goals."
   - name: "E-Commerce Platform"
-    icon: "/images/user-clock.svg"
+    icon: "/images/market.svg"
     content: "Discover and purchase unique event items through our extensive marketplace, offering everything from decor to party favors."
   - name: "Reminders"
-    icon: "/images/love.svg"
+    icon: "/images/user-clock.svg"
     content: " Keep everyone on track with automated reminders for important dates, deadlines, and tasks related to your event."
   - name: "Invitations"
-    icon: "/images/speedometer.svg"
+    icon: "/images/email.svg"
     content: "Design and send beautiful, personalized invitations that capture the essence of your event and track RSVPs seamlessly."
   - name: "Venue Booking"
-    icon: "/images/cloud.svg"
+    icon: "/images/love.svg"
     content: "Find and book the perfect venue for your event with our extensive database of locations, tailored to suit any occasion and budget."
 
 # services
@@ -57,7 +57,7 @@ services:
 # workflow
 workflow: 
   title: "Seamless Event Planning & Unbeatable Deals"
-  image: "/images/banner.svg"
+  image: "/images/banner-bottom.jpg"
   description: "Discover unbeatable deals from home and plan your event with ease using our platform.  <br/>With our intuitive interface and extensive vendor network, stress-free event planning is just a click away."
 
 # call_to_action
