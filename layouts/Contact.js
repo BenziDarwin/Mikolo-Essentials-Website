@@ -75,7 +75,6 @@ const Contact = ({ data }) => {
                   required
                 />
               </div>
-              
               <button disabled={loading} type="submit" className="btn btn-primary">
                 Send Now
               </button>
