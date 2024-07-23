@@ -139,22 +139,25 @@ const Home = ({ frontmatter }) => {
       })}
 
       {/* workflow */}
-      <section className="section pb-0">
-        <div className="mb-8 text-center">
-          {markdownify(
-            workflow.title,
-            "h2",
-            "mx-auto max-w-[400px] font-bold leading-[44px]"
-          )}
-          {markdownify(workflow.description, "p", "mt-3")}
-        </div>
-        <Image
-          src={workflow.image}
-          alt="workflow image"
-          width={1920}
-          height={296}
-        />
-      </section>
+      <section className="section pb-0 mb-0">
+  <div className="mb-8 text-center">
+    {markdownify(
+      workflow.title,
+      "h2",
+      "mx-auto max-w-[400px] font-bold leading-[44px]"
+    )}
+    {markdownify(workflow.description, "p", "mt-3")}
+  </div>
+  <div className="flex justify-center">
+    <Image
+      src={workflow.image}
+      alt="workflow image"
+      width={1000}
+      height={300}
+    />
+  </div>
+</section>
+
 
       {/* Cta */}
       <Cta cta={call_to_action} />
