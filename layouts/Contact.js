@@ -73,7 +73,7 @@ const Contact = ({ data }) => {
                   rows="7"
                   placeholder="Your message"
                   required
-                />
+                /> 
               </div>
               <button disabled={loading} type="submit" className="btn btn-primary">
                 Send Now
